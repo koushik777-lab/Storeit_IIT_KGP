@@ -137,7 +137,7 @@ Now, open your browser and visit `http://localhost:3000` to see your app in acti
 
 For any queries, feel free to reach out to us:
 
-- Email: [CLICK HERE](mailto:koushiksarkar741777gmail.com)
+- Email: [CLICK HERE](mailto:koushiksarkar741777@gmail.com)
 - GitHub: [CLICK HERE](https://github.com/koushik777-lab)
 
 ---
