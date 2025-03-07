@@ -137,8 +137,8 @@ Now, open your browser and visit `http://localhost:3000` to see your app in acti
 
 For any queries, feel free to reach out to us:
 
-- Email: [your-email@example.com](mailto:ashutoshsidhya69@example.com)
-- GitHub: [your-username](https://github.com/sidhyaashu)
+- Email: [CLICK HERE](mailto:koushiksarkar74177gmail.com)
+- GitHub: [CLICK HERE](https://github.com/koushik777-lab)
 
 ---
 
@@ -156,7 +156,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Enjoy using StoreIt, your next-gen document storage solution!** 🎉
+## 🌐 Live Demo
+Check out the live demo here: https://storeit-sigma.vercel.app/sign-in
 
 ---
 
